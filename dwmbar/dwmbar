@@ -1,0 +1,4 @@
+while true; do
+	xsetroot -name "$(clock)"
+	sleep 10
+done
